@@ -28,7 +28,7 @@ from modules.user_manager import (
 
 # Page configuration
 st.set_page_config(
-    page_title="ヨシケイ京都 配送最適化・運行管理システム",
+    page_title="スマート食材宅配 配送最適化・運行管理システム",
     page_icon="🚚",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -170,7 +170,7 @@ customers_df = load_customers(current_depot['id'])
 # -------------------------------------------------------------
 with st.sidebar:
     st.image("https://img.icons8.com/color/96/delivery-van.png", width=56)
-    st.title("ヨシケイ運行管理")
+    st.title("スマート配送管理")
     
     st.markdown("### 👤 ログインユーザー")
     user_options = {u['user_id']: f"{'👑 [管理者] ' if u['role']=='admin' else '🚚 [配達員] '}{u['name']}" for u in st.session_state.users}
