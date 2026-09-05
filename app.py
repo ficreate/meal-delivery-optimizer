@@ -109,6 +109,48 @@ def play_voice_guidance(text):
     """
     components.html(js_code, height=0, width=0)
 
+# =============================================================
+# 🔒 Basic Authentication Gate (デモ閲覧用パスワード保護)
+# =============================================================
+def check_password():
+    """Returns True if the user entered the correct password."""
+    def password_entered():
+        # Read from Streamlit Secrets or use default demo password
+        target_password = st.secrets.get("DEMO_PASSWORD", "demo2026")
+        if st.session_state.get("input_password") == target_password:
+            st.session_state["password_correct"] = True
+            if "input_password" in st.session_state:
+                del st.session_state["input_password"]
+        else:
+            st.session_state["password_correct"] = False
+
+    if st.session_state.get("password_correct", False):
+        return True
+
+    # Render Password Form
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:
+        st.markdown("<br><br>", unsafe_allow_html=True)
+        st.image("https://img.icons8.com/color/96/delivery-van.png", width=64)
+        st.markdown("## 🔒 スマート食材宅配 システムデモ")
+        st.caption("関係者様向け限定公開デモ画面です。閲覧用パスワードを入力してください。")
+        
+        with st.form("login_form"):
+            st.text_input("閲覧パスワード", type="password", key="input_password", placeholder="パスワードを入力")
+            submitted = st.form_submit_button("ログインして画面を開く", use_container_width=True)
+            if submitted:
+                password_entered()
+                if st.session_state.get("password_correct", False):
+                    st.rerun()
+
+        if st.session_state.get("password_correct") is False:
+            st.error("❌ パスワードが正しくありません")
+
+    return False
+
+if not check_password():
+    st.stop()
+
 # Session state initialization
 if 'depots' not in st.session_state:
     st.session_state.depots = load_depots()
