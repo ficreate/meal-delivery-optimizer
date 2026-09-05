@@ -1,0 +1,51 @@
+[
+  {
+    "user_id": "admin01",
+    "name": "山田 営業所長",
+    "role": "admin",
+    "depot_id": "depot-001",
+    "pin": "1234"
+  },
+  {
+    "user_id": "driver01",
+    "name": "佐藤 花子 (京都東)",
+    "role": "driver",
+    "depot_id": "depot-001",
+    "pin": "1111"
+  },
+  {
+    "user_id": "driver02",
+    "name": "鈴木 美咲 (京都東)",
+    "role": "driver",
+    "depot_id": "depot-001",
+    "pin": "2222"
+  },
+  {
+    "user_id": "driver03",
+    "name": "高橋 友香 (京都東)",
+    "role": "driver",
+    "depot_id": "depot-001",
+    "pin": "3333"
+  },
+  {
+    "user_id": "driver04",
+    "name": "伊藤 葵 (京都東)",
+    "role": "driver",
+    "depot_id": "depot-001",
+    "pin": "4444"
+  },
+  {
+    "user_id": "driver05",
+    "name": "渡辺 結衣 (京都東)",
+    "role": "driver",
+    "depot_id": "depot-001",
+    "pin": "5555"
+  },
+  {
+    "user_id": "driver06",
+    "name": "田中 陽子 (京都南)",
+    "role": "driver",
+    "depot_id": "depot-002",
+    "pin": "6666"
+  }
+]

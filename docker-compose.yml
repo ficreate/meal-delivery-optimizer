@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  yoshikei-delivery-app:
+    build: .
+    container_name: yoshikei-delivery-app
+    restart: always
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data

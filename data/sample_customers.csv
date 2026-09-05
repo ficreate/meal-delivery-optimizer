@@ -1,0 +1,351 @@
+﻿customer_id,name,lat,lng,address,dwelling_type,current_item,drop_location_text,photo_filename,preferred_time_slot,depot_id,is_active
+C0001,金子 達也,34.982291,135.814981,京都市山科区大宅細田町4丁目12-8,戸建て,Cut Meal 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0002,三浦 真由美,34.936415,135.798175,宇治市六地蔵奈良町1丁目7-10,戸建て,Cut Meal 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0003,山崎 友美,34.99014,135.817543,京都市山科区竹鼻竹ノ街道町3丁目31-9,戸建て,キットde楽! 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0004,藤井 次郎,34.973838,135.8136,京都市山科区大宅細田町4丁目15-17 ファミール601号,集合住宅,食番 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0005,田中 剛,34.945234,135.811415,京都市山科区小野西浦1丁目16-13,戸建て,定番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0006,岡田 真由美,34.986707,135.81013,京都市山科区音羽平林町2丁目19-16,戸建て,Cut Meal 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0007,坂本 健一,34.97906,135.808225,京都市山科区東野中井手町4丁目14-7,戸建て,定番 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0008,中島 太郎,34.932557,135.806662,宇治市六地蔵町並2丁目10-4,戸建て,定番 3人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0009,岡本 雅人,34.95585,135.766272,京都市伏見区深草キトロ町2丁目28-2 ファミール407号,集合住宅,Lovyu 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0010,山下 健一,34.971564,135.817905,京都市山科区東野中井手町3丁目12-5,戸建て,プチママ 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0011,石井 健一,34.928434,135.806764,宇治市木幡御蔵山平野部3丁目2-13 ベルメゾン502号,集合住宅,プチママ 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0012,山口 翔太,34.987764,135.816041,京都市山科区音羽平林町3丁目28-2,戸建て,プチママ 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0013,西村 麻衣,34.937211,135.806896,宇治市六地蔵町並3丁目32-7,戸建て,食番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0014,近藤 優子,34.969755,135.813967,京都市山科区大宅御所田町4丁目30-8,戸建て,定番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0015,遠藤 健一,34.984804,135.810476,京都市山科区西野今屋敷町1丁目24-15,戸建て,Cut Meal 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0016,斎藤 陽子,34.949336,135.811466,京都市伏見区小栗栖中山田町3丁目6-5,戸建て,Lovyu 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0017,田中 次郎,34.983928,135.814597,京都市山科区大宅細田町1丁目7-5,戸建て,Cut Meal 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0018,中川 麻衣,34.942687,135.814965,京都市伏見区石田大受町4丁目31-7,戸建て,キットde楽! 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0019,中村 美咲,34.971951,135.81765,京都市山科区勧修寺平田町4丁目10-7,戸建て,定番 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0020,松田 俊介,34.978738,135.811411,京都市山科区西野今屋敷町2丁目32-11,戸建て,定番 3人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0021,山口 香織,34.991868,135.815264,京都市山科区音羽中堀町2丁目27-16,戸建て,キットde楽! 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0022,藤田 幸子,34.976921,135.81593,京都市山科区西野楳本町1丁目32-6,戸建て,定番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0023,佐々木 幸子,34.971139,135.814494,京都市山科区大宅細田町2丁目31-11,戸建て,Lovyu 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0024,清水 和也,34.956725,135.810185,京都市山科区小野西浦2丁目6-9 グランドメゾン103号,集合住宅,定番 3人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0025,坂本 陽子,34.972522,135.81855,京都市山科区西野楳本町4丁目5-9,戸建て,定番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0026,山田 剛,34.958543,135.810677,京都市伏見区石田大受町1丁目3-8,戸建て,食番 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0027,西村 俊介,34.942833,135.810466,京都市伏見区石田大受町2丁目27-4 エクセレンス204号,集合住宅,定番 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0028,三浦 俊介,34.936065,135.803745,宇治市木幡内畑3丁目22-18 エクセレンス603号,集合住宅,プチママ 3人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0029,山崎 次郎,34.978585,135.81642,京都市山科区大宅御所田町2丁目29-1,戸建て,プチママ 3人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0030,小川 花子,34.951641,135.760917,京都市伏見区墨染町2丁目1-1,戸建て,キットde楽! 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0031,三浦 拓也,34.984094,135.811104,京都市山科区東野百拍子町1丁目27-2,戸建て,食番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0032,三浦 優子,34.948117,135.815219,京都市伏見区小栗栖森本町3丁目24-15,戸建て,定番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0033,藤井 直人,34.934418,135.807918,宇治市木幡南端3丁目21-3 ファミール407号,集合住宅,定番 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0034,村上 美咲,34.989084,135.813856,京都市山科区竹鼻堂ノ前町4丁目20-1,戸建て,食番 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0035,中島 誠,34.929748,135.803557,宇治市木幡東中4丁目11-10 ファミール305号,集合住宅,定番 3人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0036,吉田 和也,34.950779,135.812107,京都市山科区小野西浦4丁目15-1,戸建て,キットde楽! 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0037,藤井 美咲,34.987907,135.809602,京都市山科区竹鼻地蔵寺南町1丁目24-17 パセオ505号,集合住宅,定番 3人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0038,伊藤 健一,34.973967,135.817311,京都市山科区椥辻中在家町4丁目7-15,戸建て,Lovyu 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0039,松本 直樹,34.953692,135.809721,京都市山科区小野西浦1丁目8-10,戸建て,ベジミール,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0040,岡本 裕子,34.989572,135.81321,京都市山科区音羽中堀町2丁目22-3,戸建て,定番 3人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0041,金子 俊介,34.946516,135.76963,京都市伏見区墨染町3丁目17-13,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0042,長谷川 美咲,34.97675,135.807786,京都市山科区大宅御所田町4丁目2-6,戸建て,ベジミール,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0043,石井 太郎,34.972115,135.815771,京都市山科区椥辻平田町1丁目9-11,戸建て,プチママ 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0044,長谷川 剛,34.989196,135.818807,京都市山科区音羽中堀町1丁目17-3,戸建て,Lovyu 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0045,高橋 健一,34.954325,135.816518,京都市伏見区石田森南町3丁目1-8 ファミール203号,集合住宅,定番 3人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0046,中川 大輔,34.953023,135.762998,京都市伏見区竹田真幡木町3丁目8-2,戸建て,定番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0047,高橋 花子,34.951837,135.77108,京都市伏見区竹田真幡木町3丁目31-10,戸建て,定番 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0048,斎藤 直樹,34.987332,135.81323,京都市山科区竹鼻地蔵寺南町1丁目19-17,戸建て,定番 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0049,林 浩,34.972358,135.810577,京都市山科区東野百拍子町1丁目1-5,戸建て,キットde楽! 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0050,岡田 太郎,34.95511,135.809902,京都市山科区小野葛籠尻町1丁目30-16,戸建て,プチママ 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0051,清水 浩,34.960405,135.80893,京都市伏見区石田森南町4丁目12-5,戸建て,キットde楽! 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0052,井上 修,34.931535,135.807019,宇治市六地蔵奈良町2丁目21-6,戸建て,Lovyu 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0053,石川 美咲,34.950809,135.810157,京都市伏見区石田森南町2丁目7-1 ライオンズマンション302号,集合住宅,プチママ 3人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0054,山口 直人,34.974661,135.810178,京都市山科区大宅細田町1丁目22-6,戸建て,定番 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0055,前田 香織,34.947622,135.812859,京都市伏見区石田大受町1丁目26-3 パセオ508号,集合住宅,食番 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0056,松田 陽子,34.99121,135.815904,京都市山科区音羽中堀町3丁目24-10 パセオ506号,集合住宅,Cut Meal 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0057,石井 健一,34.951455,135.808227,京都市伏見区小栗栖森本町2丁目9-4 ベルメゾン308号,集合住宅,Cut Meal 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0058,伊藤 修,34.958199,135.815359,京都市伏見区小栗栖中山田町4丁目6-7,戸建て,キットde楽! 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0059,橋本 友美,34.991281,135.818678,京都市山科区音羽中堀町4丁目30-10 グランドメゾン208号,集合住宅,プチママ 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0060,藤田 修,34.952413,135.813639,京都市山科区小野葛籠尻町2丁目11-5,戸建て,キットde楽! 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0061,遠藤 幸子,34.933989,135.803195,宇治市木幡東中4丁目2-4,戸建て,プチママ 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0062,中村 裕子,34.991505,135.819648,京都市山科区竹鼻西ノ口町2丁目16-1,戸建て,ベジミール,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0063,鈴木 浩,34.984233,135.808369,京都市山科区大宅御所田町4丁目23-8 エクセレンス505号,集合住宅,Lovyu 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0064,池田 直人,34.972959,135.814699,京都市山科区大宅神納町4丁目22-5,戸建て,定番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0065,太田 健一,34.959552,135.810812,京都市山科区小野西浦3丁目27-10 パセオ402号,集合住宅,Cut Meal 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0066,林 真由美,34.934287,135.804446,宇治市木幡御蔵山平野部4丁目12-17,戸建て,食番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0067,中島 拓也,34.945077,135.817298,京都市伏見区石田大受町1丁目24-1,戸建て,プチママ 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0068,加藤 誠,34.982724,135.816408,京都市山科区大宅神納町4丁目14-16,戸建て,プチママ 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0069,松田 裕子,34.956093,135.763215,京都市伏見区竹田久保町4丁目7-1,戸建て,定番 3人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0070,遠藤 麻衣,34.954795,135.814962,京都市伏見区醍醐高畑町4丁目12-1,戸建て,プチママ 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0071,青木 拓也,34.97008,135.80945,京都市山科区東野中井手町4丁目17-6 エクセレンス302号,集合住宅,プチママ 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0072,石井 誠,34.948308,135.765676,京都市伏見区深草加賀屋敷町2丁目32-1,戸建て,Lovyu 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0073,石井 修,34.988939,135.80933,京都市山科区竹鼻西ノ口町3丁目2-1,戸建て,定番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0074,近藤 久美子,34.944728,135.812039,京都市伏見区石田森南町4丁目31-3 グランドメゾン401号,集合住宅,定番 3人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0075,池田 和也,34.970142,135.811981,京都市山科区大宅神納町4丁目5-16 パセオ208号,集合住宅,プチママ 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0076,井上 浩,34.9877,135.812845,京都市山科区音羽役所前2丁目11-17 パセオ206号,集合住宅,Lovyu 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0077,中川 誠,34.971768,135.810058,京都市山科区椥辻平田町2丁目22-8,戸建て,定番 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0078,斉藤 優子,34.934506,135.802452,宇治市木幡南端2丁目2-5,戸建て,Cut Meal 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0079,岡田 久美子,34.95605,135.816064,京都市伏見区石田森南町3丁目28-7,戸建て,Cut Meal 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0080,高橋 浩,34.987706,135.809683,京都市山科区音羽平林町4丁目28-7 パセオ104号,集合住宅,キットde楽! 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0081,岡本 花子,34.970448,135.814694,京都市山科区勧修寺東栗栖野町2丁目27-3,戸建て,プチママ 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0082,石川 雅人,34.990716,135.813994,京都市山科区音羽中堀町1丁目12-6,戸建て,Cut Meal 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0083,岡本 大輔,34.970801,135.818397,京都市山科区椥辻中在家町2丁目31-11,戸建て,定番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0084,太田 俊介,34.942301,135.814458,京都市伏見区醍醐高畑町2丁目15-16,戸建て,定番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0085,山本 陽子,34.974104,135.818197,京都市山科区大宅神納町3丁目27-16,戸建て,定番 3人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0086,中村 修,34.961277,135.81078,京都市伏見区醍醐高畑町3丁目23-3,戸建て,定番 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0087,木村 幸子,34.949671,135.810478,京都市山科区小野西浦2丁目8-8,戸建て,プチママ 3人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0088,中川 幸子,34.990012,135.819364,京都市山科区竹鼻竹ノ街道町1丁目6-8,戸建て,ベジミール,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0089,藤井 健一,34.928337,135.801291,宇治市六地蔵奈良町2丁目2-5 グランドメゾン604号,集合住宅,定番 3人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0090,藤井 美咲,34.947695,135.762776,京都市伏見区深草瓦町3丁目32-3,戸建て,プチママ 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0091,石川 智子,34.988718,135.811693,京都市山科区音羽中堀町4丁目3-16 エクセレンス301号,集合住宅,Cut Meal 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0092,池田 優子,34.989259,135.815548,京都市山科区音羽役所前4丁目29-17,戸建て,食番 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0093,中川 俊介,34.981345,135.813861,京都市山科区椥辻草海道町1丁目5-4 パセオ203号,集合住宅,ベジミール,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0094,藤田 恵美,34.99015,135.815818,京都市山科区音羽前出町1丁目5-9,戸建て,定番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0095,金子 修,34.984369,135.810471,京都市山科区西野今屋敷町4丁目1-8 ライオンズマンション604号,集合住宅,食番 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0096,加藤 智子,34.960434,135.810824,京都市山科区小野西浦4丁目29-13 グランドメゾン404号,集合住宅,食番 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0097,中川 修,34.969447,135.818616,京都市山科区西野楳本町2丁目9-8,戸建て,定番 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0098,斎藤 陽子,34.95313,135.815158,京都市伏見区小栗栖森本町4丁目3-9 ベルメゾン407号,集合住宅,Lovyu 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0099,村上 雅人,34.954106,135.762956,京都市伏見区深草加賀屋敷町2丁目13-13,戸建て,定番 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0100,池田 大輔,34.950023,135.761181,京都市伏見区墨染町2丁目30-13 エクセレンス204号,集合住宅,Cut Meal 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0101,木村 誠,34.963823,135.815569,京都市伏見区醍醐川久保町1丁目3-7 ベルメゾン602号,集合住宅,定番 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0102,山口 達也,34.950567,135.811163,京都市山科区小野葛籠尻町3丁目18-11,戸建て,定番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0103,斉藤 大輔,34.959673,135.768539,京都市伏見区深草瓦町2丁目9-15 パセオ106号,集合住宅,プチママ 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0104,中川 翔太,34.947793,135.769983,京都市伏見区墨染町2丁目18-18 ベルメゾン104号,集合住宅,食番 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0105,橋本 達也,34.977961,135.812381,京都市山科区西野今屋敷町3丁目13-6,戸建て,キットde楽! 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0106,石川 和也,34.970942,135.809595,京都市山科区椥辻平田町4丁目12-6,戸建て,Lovyu 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0107,石川 剛,34.964229,135.761732,京都市伏見区深草西浦町2丁目16-18,戸建て,Cut Meal 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0108,田中 明美,34.983177,135.806957,京都市山科区大宅細田町2丁目7-5 ファミール105号,集合住宅,定番 3人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0109,田中 誠,34.945467,135.768664,京都市伏見区深草直違橋2丁目19-7,戸建て,プチママ 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0110,山口 和也,34.952866,135.808613,京都市伏見区醍醐多羅尾町1丁目10-10,戸建て,プチママ 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0111,井上 大輔,34.99148,135.816806,京都市山科区竹鼻地蔵寺南町3丁目17-7,戸建て,定番 3人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0112,高橋 香織,34.989675,135.813957,京都市山科区竹鼻地蔵寺南町2丁目8-13,戸建て,プチママ 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0113,長谷川 明美,34.958153,135.768235,京都市伏見区竹田久保町4丁目8-13 エクセレンス106号,集合住宅,定番 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0114,山下 達也,34.955521,135.763938,京都市伏見区竹田久保町1丁目12-4,戸建て,食番 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0115,林 麻衣,34.98432,135.815128,京都市山科区大宅御所田町1丁目32-16 パセオ104号,集合住宅,ベジミール,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0116,山下 花子,34.950119,135.813403,京都市伏見区小栗栖森本町2丁目21-13,戸建て,Lovyu 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0117,山田 恵美,34.95823,135.815369,京都市山科区小野西浦1丁目5-12 ベルメゾン403号,集合住宅,プチママ 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0118,近藤 雅人,34.986887,135.809743,京都市山科区竹鼻西ノ口町2丁目30-6,戸建て,ベジミール,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0119,福田 優子,34.947106,135.810641,京都市山科区小野西浦4丁目8-8 グランドメゾン107号,集合住宅,食番 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0120,村上 直人,34.981962,135.814304,京都市山科区西野楳本町4丁目17-16 パセオ308号,集合住宅,食番 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0121,橋本 智子,34.972326,135.814139,京都市山科区大宅神納町3丁目19-16,戸建て,食番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0122,前田 拓也,34.952526,135.813908,京都市伏見区醍醐高畑町2丁目8-13 ライオンズマンション504号,集合住宅,定番 3人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0123,山田 剛,34.929044,135.799835,宇治市木幡御蔵山平野部2丁目32-10 ファミール203号,集合住宅,プチママ 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0124,木村 恵美,34.972135,135.817524,京都市山科区勧修寺平田町3丁目15-11,戸建て,プチママ 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0125,吉田 裕子,34.952864,135.759391,京都市伏見区深草瓦町2丁目18-17 グランドメゾン306号,集合住宅,食番 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0126,井上 誠,34.975606,135.807958,京都市山科区椥辻中在家町1丁目1-12,戸建て,食番 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0127,小林 剛,34.98836,135.811496,京都市山科区音羽役所前4丁目24-14,戸建て,Lovyu 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0128,松田 優子,34.98786,135.812393,京都市山科区音羽中堀町2丁目4-1 ライオンズマンション502号,集合住宅,Cut Meal 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0129,伊藤 智子,34.946469,135.81644,京都市山科区小野葛籠尻町2丁目27-2,戸建て,プチママ 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0130,太田 誠,34.980994,135.817712,京都市山科区西野今屋敷町2丁目25-1,戸建て,定番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0131,佐々木 俊介,34.968593,135.814809,京都市山科区大宅御所田町2丁目21-13 ベルメゾン204号,集合住宅,定番 3人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0132,小川 陽子,34.948823,135.809605,京都市山科区小野西浦4丁目13-10 パセオ604号,集合住宅,Lovyu 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0133,岡本 俊介,34.971236,135.806071,京都市山科区大宅神納町4丁目9-17,戸建て,定番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0134,伊藤 香織,34.948853,135.813879,京都市伏見区醍醐高畑町4丁目18-15,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0135,木村 香織,34.945447,135.76626,京都市伏見区深草西浦町1丁目27-8,戸建て,定番 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0136,岡田 香織,34.987214,135.817129,京都市山科区竹鼻西ノ口町2丁目19-12,戸建て,Lovyu 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0137,長谷川 明美,34.937484,135.798297,宇治市六地蔵町並3丁目3-7 ファミール407号,集合住宅,Cut Meal 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0138,鈴木 直樹,34.969577,135.807848,京都市山科区椥辻中在家町1丁目21-15,戸建て,キットde楽! 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0139,近藤 久美子,34.989176,135.81682,京都市山科区竹鼻西ノ口町4丁目26-7,戸建て,定番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0140,後藤 明美,34.936525,135.802893,宇治市六地蔵町並2丁目11-13,戸建て,プチママ 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0141,山口 友美,34.99194,135.809118,京都市山科区音羽前出町1丁目13-11,戸建て,食番 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0142,松田 雅人,34.95585,135.762528,京都市伏見区深草キトロ町1丁目32-10,戸建て,食番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0143,林 直樹,34.952574,135.81094,京都市伏見区石田森南町4丁目11-10 パセオ203号,集合住宅,Lovyu 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0144,中川 翔太,34.957423,135.77054,京都市伏見区深草西浦町4丁目6-6,戸建て,食番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0145,松田 大輔,34.990927,135.815171,京都市山科区音羽役所前3丁目32-14,戸建て,Lovyu 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0146,福田 友美,34.960838,135.766578,京都市伏見区竹田真幡木町3丁目12-7,戸建て,食番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0147,中村 明美,34.987923,135.80932,京都市山科区竹鼻地蔵寺南町1丁目14-15,戸建て,食番 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0148,村上 直人,34.949737,135.771527,京都市伏見区深草直違橋1丁目11-1,戸建て,定番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0149,中島 直樹,34.987605,135.808827,京都市山科区音羽前出町3丁目23-11,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0150,中島 明美,34.987105,135.808572,京都市山科区音羽役所前3丁目3-18 ライオンズマンション407号,集合住宅,定番 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0151,太田 明美,34.952765,135.808097,京都市伏見区小栗栖中山田町1丁目22-2,戸建て,キットde楽! 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0152,山崎 真由美,34.95585,135.76784,京都市伏見区深草キトロ町2丁目29-15,戸建て,食番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0153,近藤 誠,34.986278,135.816271,京都市山科区竹鼻地蔵寺南町2丁目4-7,戸建て,プチママ 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0154,松本 恵美,34.97418,135.81765,京都市山科区東野中井手町3丁目2-7,戸建て,ベジミール,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0155,中島 次郎,34.991786,135.815993,京都市山科区音羽中堀町1丁目14-12,戸建て,Lovyu 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0156,加藤 雅人,34.989308,135.819574,京都市山科区音羽前出町3丁目1-16,戸建て,キットde楽! 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0157,加藤 友美,34.990387,135.809063,京都市山科区竹鼻西ノ口町3丁目5-18,戸建て,Lovyu 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0158,中島 剛,34.974812,135.815338,京都市山科区西野今屋敷町2丁目5-15,戸建て,ベジミール,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0159,前田 和也,34.969231,135.812992,京都市山科区椥辻平田町2丁目15-1,戸建て,Lovyu 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0160,木村 花子,34.989846,135.811631,京都市山科区音羽中堀町2丁目9-6,戸建て,Lovyu 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0161,福田 香織,34.938085,135.800634,宇治市六地蔵町並4丁目22-18,戸建て,定番 3人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0162,橋本 久美子,34.97566,135.807662,京都市山科区西野楳本町2丁目7-14 ライオンズマンション605号,集合住宅,キットde楽! 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0163,井上 達也,34.948458,135.765797,京都市伏見区深草直違橋3丁目10-11,戸建て,定番 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0164,中川 花子,34.987656,135.810852,京都市山科区竹鼻堂ノ前町2丁目31-11,戸建て,定番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0165,渡辺 健一,34.991365,135.813809,京都市山科区音羽役所前1丁目19-2,戸建て,キットde楽! 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0166,岡田 拓也,34.96296,135.762752,京都市伏見区墨染町1丁目12-3,戸建て,食番 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0167,高橋 裕子,34.937667,135.802542,宇治市木幡御蔵山平野部4丁目6-2,戸建て,食番 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0168,山崎 拓也,34.95585,135.759283,京都市伏見区深草キトロ町4丁目26-8 グランドメゾン508号,集合住宅,定番 3人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0169,山本 修,34.986841,135.810975,京都市山科区竹鼻地蔵寺南町4丁目28-5 エクセレンス602号,集合住宅,定番 3人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0170,青木 美咲,34.961165,135.809618,京都市伏見区石田大受町3丁目8-14 エクセレンス604号,集合住宅,キットde楽! 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0171,池田 健一,34.980949,135.811668,京都市山科区西野今屋敷町1丁目26-14 エクセレンス101号,集合住宅,Lovyu 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0172,坂本 俊介,34.988932,135.808676,京都市山科区音羽役所前3丁目32-12 エクセレンス606号,集合住宅,プチママ 3人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0173,中村 俊介,34.977094,135.81039,京都市山科区西野今屋敷町4丁目20-5 パセオ406号,集合住宅,Cut Meal 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0174,後藤 恵美,34.969409,135.817667,京都市山科区椥辻草海道町1丁目5-17,戸建て,プチママ 3人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0175,井上 太郎,34.951432,135.817138,京都市伏見区石田大受町4丁目1-14,戸建て,定番 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0176,藤田 友美,34.978141,135.816836,京都市山科区椥辻草海道町4丁目28-18,戸建て,キットde楽! 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0177,斉藤 達也,34.961415,135.808275,京都市伏見区醍醐高畑町3丁目15-1 エクセレンス104号,集合住宅,定番 3人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0178,中川 幸子,34.986997,135.818316,京都市山科区音羽平林町4丁目4-2,戸建て,定番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0179,山口 幸子,34.975471,135.816556,京都市山科区椥辻中在家町4丁目6-5,戸建て,定番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0180,山本 幸子,34.955969,135.815912,京都市伏見区小栗栖森本町4丁目16-14 ベルメゾン204号,集合住宅,プチママ 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0181,西村 麻衣,34.955575,135.816263,京都市伏見区石田大受町3丁目15-15 パセオ402号,集合住宅,定番 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0182,井上 麻衣,34.95857,135.816869,京都市山科区小野葛籠尻町1丁目17-17 ファミール601号,集合住宅,Cut Meal 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0183,森 雅人,34.974445,135.81331,京都市山科区椥辻草海道町3丁目6-14,戸建て,プチママ 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0184,石川 久美子,34.956098,135.814614,京都市伏見区小栗栖森本町1丁目4-16 ファミール102号,集合住宅,Cut Meal 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0185,後藤 翔太,34.984671,135.807999,京都市山科区西野今屋敷町1丁目19-16 ベルメゾン604号,集合住宅,キットde楽! 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0186,高橋 次郎,34.977239,135.812257,京都市山科区椥辻中在家町3丁目11-14,戸建て,定番 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0187,吉田 翔太,34.946206,135.81342,京都市伏見区石田森南町4丁目28-4,戸建て,ベジミール,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0188,橋本 香織,34.943093,135.816148,京都市伏見区小栗栖森本町3丁目16-6 エクセレンス603号,集合住宅,ベジミール,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0189,山本 優子,34.987791,135.817282,京都市山科区竹鼻竹ノ街道町2丁目21-4 エクセレンス605号,集合住宅,Cut Meal 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0190,橋本 修,34.936936,135.809898,宇治市六地蔵奈良町3丁目8-5 パセオ208号,集合住宅,ベジミール,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0191,斎藤 直樹,34.988254,135.813408,京都市山科区音羽中堀町1丁目12-14,戸建て,食番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0192,三浦 美咲,34.960219,135.811417,京都市伏見区小栗栖中山田町2丁目8-2,戸建て,キットde楽! 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0193,林 幸子,34.952975,135.760507,京都市伏見区深草直違橋1丁目5-10,戸建て,ベジミール,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0194,山口 香織,34.954591,135.812544,京都市山科区小野葛籠尻町2丁目27-10,戸建て,定番 3人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0195,長谷川 花子,34.969207,135.812044,京都市山科区椥辻草海道町1丁目27-17,戸建て,キットde楽! 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0196,森 真由美,34.953981,135.808498,京都市伏見区石田森南町4丁目21-5,戸建て,定番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0197,山口 明美,34.98935,135.818733,京都市山科区竹鼻竹ノ街道町2丁目19-9 ファミール405号,集合住宅,Lovyu 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0198,金子 真由美,34.975885,135.807451,京都市山科区東野中井手町3丁目4-14 ベルメゾン106号,集合住宅,食番 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0199,松田 美咲,34.969797,135.816786,京都市山科区東野百拍子町3丁目19-12,戸建て,食番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0200,小川 真由美,34.974318,135.816504,京都市山科区西野楳本町2丁目7-15 ライオンズマンション608号,集合住宅,定番 3人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0201,太田 裕子,34.942961,135.812063,京都市伏見区醍醐川久保町1丁目19-11,戸建て,食番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0202,佐々木 陽子,34.988259,135.809245,京都市山科区音羽役所前2丁目25-4,戸建て,プチママ 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0203,岡本 花子,34.972037,135.815068,京都市山科区東野百拍子町3丁目16-10,戸建て,キットde楽! 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0204,前田 恵美,34.990315,135.819356,京都市山科区竹鼻地蔵寺南町1丁目26-3,戸建て,プチママ 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0205,鈴木 裕子,34.929173,135.809751,宇治市木幡東中2丁目10-1,戸建て,食番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0206,岡本 直人,34.963469,135.813305,京都市伏見区醍醐高畑町3丁目8-4,戸建て,食番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0207,高橋 修,34.971849,135.815803,京都市山科区大宅細田町3丁目10-11,戸建て,Lovyu 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0208,池田 美咲,34.988283,135.812227,京都市山科区竹鼻堂ノ前町2丁目8-14,戸建て,プチママ 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0209,近藤 花子,34.97707,135.816987,京都市山科区西野今屋敷町4丁目17-10,戸建て,プチママ 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0210,山下 剛,34.988203,135.809514,京都市山科区竹鼻竹ノ街道町3丁目24-8,戸建て,プチママ 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0211,金子 直人,34.928098,135.808308,宇治市木幡東中1丁目30-16,戸建て,定番 3人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0212,石井 友美,34.986117,135.814332,京都市山科区音羽前出町3丁目18-18,戸建て,Cut Meal 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0213,中村 友美,34.97683,135.813198,京都市山科区大宅細田町2丁目17-14,戸建て,ベジミール,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0214,遠藤 直樹,34.970311,135.815177,京都市山科区椥辻中在家町1丁目14-5,戸建て,食番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0215,池田 陽子,34.977255,135.814764,京都市山科区東野中井手町1丁目23-5,戸建て,プチママ 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0216,三浦 剛,34.975645,135.8156,京都市山科区西野楳本町4丁目28-2 エクセレンス601号,集合住宅,Lovyu 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0217,橋本 優子,34.952503,135.812103,京都市山科区小野西浦1丁目21-7,戸建て,キットde楽! 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0218,金子 美咲,34.98458,135.812584,京都市山科区勧修寺東栗栖野町2丁目7-3,戸建て,Lovyu 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0219,橋本 修,34.939158,135.799723,宇治市木幡御蔵山平野部4丁目22-14 ライオンズマンション104号,集合住宅,プチママ 3人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0220,吉田 久美子,34.986208,135.812056,京都市山科区竹鼻堂ノ前町2丁目5-3,戸建て,プチママ 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0221,高橋 太郎,34.987394,135.81865,京都市山科区音羽役所前2丁目30-6,戸建て,ベジミール,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0222,田中 友美,34.970453,135.811654,京都市山科区椥辻平田町4丁目32-17,戸建て,食番 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0223,山本 太郎,34.990483,135.810245,京都市山科区音羽役所前2丁目12-9,戸建て,定番 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0224,岡田 久美子,34.938094,135.807005,宇治市木幡南端4丁目21-3,戸建て,Lovyu 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0225,坂本 次郎,34.990974,135.8124,京都市山科区竹鼻堂ノ前町3丁目16-3,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0226,三浦 明美,34.981727,135.809506,京都市山科区東野百拍子町4丁目22-16,戸建て,定番 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0227,木村 恵美,34.956757,135.813924,京都市伏見区醍醐川久保町4丁目21-11,戸建て,ベジミール,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0228,後藤 浩,34.94678,135.812925,京都市山科区小野葛籠尻町1丁目29-6,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0229,伊藤 剛,34.964308,135.767706,京都市伏見区深草西浦町3丁目9-1,戸建て,定番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0230,岡本 次郎,34.991491,135.818489,京都市山科区音羽中堀町2丁目21-14,戸建て,ベジミール,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0231,松田 和也,34.931147,135.805357,宇治市木幡南端3丁目23-1,戸建て,プチママ 3人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0232,山本 修,34.930127,135.803267,宇治市木幡南端1丁目31-18,戸建て,Lovyu 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0233,近藤 智子,34.975397,135.807229,京都市山科区大宅神納町1丁目23-7,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0234,伊藤 幸子,34.986263,135.815718,京都市山科区音羽役所前1丁目24-1,戸建て,Cut Meal 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0235,佐々木 和也,34.990143,135.811707,京都市山科区音羽平林町1丁目17-2,戸建て,プチママ 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0236,山下 真由美,34.968562,135.813301,京都市山科区西野今屋敷町4丁目2-11,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0237,佐々木 誠,34.979973,135.806833,京都市山科区椥辻中在家町2丁目1-16,戸建て,食番 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0238,田中 恵美,34.968313,135.818147,京都市山科区椥辻平田町4丁目22-15 ベルメゾン101号,集合住宅,プチママ 3人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0239,清水 達也,34.936439,135.801409,宇治市木幡南端1丁目21-4,戸建て,キットde楽! 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0240,田中 幸子,34.986232,135.817388,京都市山科区音羽中堀町3丁目30-7,戸建て,プチママ 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0241,石川 浩,34.979252,135.814358,京都市山科区椥辻平田町1丁目4-14 エクセレンス507号,集合住宅,プチママ 3人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0242,山崎 俊介,34.959265,135.810535,京都市伏見区石田森南町2丁目7-9,戸建て,定番 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0243,福田 幸子,34.973171,135.809673,京都市山科区椥辻草海道町1丁目16-14,戸建て,食番 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0244,林 麻衣,34.970074,135.813396,京都市山科区椥辻平田町3丁目27-6 エクセレンス302号,集合住宅,プチママ 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0245,山本 久美子,34.97837,135.811781,京都市山科区大宅細田町1丁目19-3,戸建て,ベジミール,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0246,福田 拓也,34.983761,135.806142,京都市山科区椥辻平田町2丁目14-8 ライオンズマンション202号,集合住宅,ベジミール,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0247,池田 達也,34.950896,135.817367,京都市伏見区石田森南町3丁目13-18,戸建て,食番 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0248,小川 拓也,34.989994,135.81761,京都市山科区竹鼻竹ノ街道町1丁目18-17,戸建て,プチママ 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0249,小林 次郎,34.950646,135.815003,京都市伏見区小栗栖森本町2丁目21-11,戸建て,プチママ 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0250,斎藤 智子,34.934309,135.809136,宇治市木幡内畑4丁目26-15 ベルメゾン407号,集合住宅,定番 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0251,林 雅人,34.946779,135.808447,京都市伏見区小栗栖森本町1丁目27-9,戸建て,Cut Meal 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0252,坂本 明美,34.968692,135.817158,京都市山科区椥辻平田町4丁目28-8,戸建て,食番 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0253,後藤 誠,34.936619,135.80327,宇治市六地蔵町並4丁目16-15,戸建て,Cut Meal 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0254,橋本 拓也,34.947902,135.768216,京都市伏見区墨染町3丁目13-15,戸建て,Cut Meal 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0255,池田 浩,34.972847,135.818941,京都市山科区東野百拍子町3丁目1-11 ライオンズマンション602号,集合住宅,プチママ 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0256,佐々木 裕子,34.970715,135.813403,京都市山科区椥辻草海道町4丁目20-14,戸建て,定番 3人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0257,中島 香織,34.932598,135.804681,宇治市木幡南端4丁目7-7,戸建て,定番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0258,山田 恵美,34.953072,135.809361,京都市伏見区醍醐多羅尾町3丁目19-5,戸建て,プチママ 3人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0259,鈴木 明美,34.952907,135.810699,京都市伏見区小栗栖中山田町1丁目12-13 ファミール101号,集合住宅,Lovyu 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0260,金子 次郎,34.9919,135.811416,京都市山科区音羽平林町2丁目2-6 エクセレンス508号,集合住宅,定番 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0261,伊藤 真由美,34.973453,135.809214,京都市山科区大宅御所田町4丁目19-5,戸建て,定番 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0262,中川 裕子,34.990849,135.808635,京都市山科区音羽前出町1丁目7-4,戸建て,Cut Meal 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0263,佐藤 誠,34.982898,135.807827,京都市山科区勧修寺平田町1丁目14-13,戸建て,プチママ 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0264,斎藤 陽子,34.971944,135.816614,京都市山科区大宅御所田町4丁目10-6,戸建て,プチママ 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0265,近藤 俊介,34.98374,135.811267,京都市山科区勧修寺東栗栖野町2丁目2-16,戸建て,定番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0266,前田 麻衣,34.954819,135.76484,京都市伏見区深草加賀屋敷町2丁目25-15,戸建て,プチママ 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0267,長谷川 俊介,34.981114,135.81745,京都市山科区大宅細田町1丁目9-5 ライオンズマンション607号,集合住宅,Cut Meal 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0268,山本 和也,34.958569,135.758078,京都市伏見区深草西浦町3丁目20-16,戸建て,キットde楽! 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0269,伊藤 浩,34.976584,135.811704,京都市山科区東野百拍子町1丁目31-5,戸建て,Lovyu 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0270,伊藤 香織,34.947171,135.814209,京都市山科区小野西浦2丁目14-8,戸建て,ベジミール,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0271,田中 幸子,34.942822,135.815706,京都市伏見区醍醐川久保町3丁目20-11 ファミール401号,集合住宅,プチママ 3人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0272,伊藤 和也,34.987705,135.808357,京都市山科区音羽前出町2丁目31-18,戸建て,プチママ 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0273,斉藤 真由美,34.953345,135.808844,京都市伏見区石田大受町1丁目27-14,戸建て,定番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0274,伊藤 久美子,34.973728,135.811086,京都市山科区大宅細田町1丁目12-3 ベルメゾン303号,集合住宅,Lovyu 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0275,金子 麻衣,34.938705,135.809212,宇治市木幡内畑4丁目23-11 ファミール102号,集合住宅,プチママ 3人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0276,松本 修,34.970406,135.817316,京都市山科区勧修寺平田町2丁目31-18,戸建て,プチママ 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0277,木村 智子,34.928979,135.807458,宇治市六地蔵奈良町1丁目10-13,戸建て,定番 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0278,山口 友美,34.983739,135.815117,京都市山科区大宅細田町1丁目14-3,戸建て,プチママ 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0279,石井 明美,34.975178,135.814389,京都市山科区椥辻中在家町1丁目24-6,戸建て,キットde楽! 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0280,中島 恵美,34.971775,135.814611,京都市山科区大宅神納町1丁目24-5,戸建て,ベジミール,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0281,岡本 久美子,34.972506,135.807654,京都市山科区西野今屋敷町3丁目7-15,戸建て,Lovyu 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0282,加藤 直樹,34.97375,135.806295,京都市山科区勧修寺東栗栖野町2丁目20-10,戸建て,定番 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0283,阿部 久美子,34.961981,135.809183,京都市伏見区石田森南町1丁目10-17,戸建て,定番 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0284,西村 真由美,34.989791,135.812719,京都市山科区竹鼻地蔵寺南町4丁目1-16 エクセレンス603号,集合住宅,Lovyu 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0285,福田 次郎,34.952522,135.762418,京都市伏見区深草西浦町3丁目5-10,戸建て,プチママ 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0286,村上 次郎,34.974289,135.815852,京都市山科区大宅細田町1丁目29-2,戸建て,キットde楽! 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0287,近藤 拓也,34.933562,135.802946,宇治市木幡南端4丁目20-17,戸建て,定番 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0288,青木 翔太,34.956492,135.816615,京都市伏見区石田大受町2丁目26-14,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0289,井上 俊介,34.981015,135.815182,京都市山科区東野中井手町1丁目25-10,戸建て,Lovyu 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0290,坂本 拓也,34.986792,135.809676,京都市山科区音羽役所前3丁目27-6,戸建て,定番 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0291,斉藤 修,34.961388,135.765996,京都市伏見区竹田真幡木町1丁目14-17,戸建て,キットde楽! 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0292,福田 雅人,34.946398,135.758919,京都市伏見区深草西浦町2丁目19-4 グランドメゾン203号,集合住宅,キットde楽! 2人用,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0293,中島 友美,34.990658,135.81931,京都市山科区音羽前出町4丁目32-13,戸建て,プチママ 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0294,山口 健一,34.942404,135.808957,京都市伏見区醍醐多羅尾町2丁目15-11 ライオンズマンション405号,集合住宅,プチママ 3人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0295,佐藤 麻衣,34.958017,135.814957,京都市伏見区石田森南町2丁目4-6 ライオンズマンション607号,集合住宅,ベジミール,オートロック呼出後 玄関前,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0296,池田 太郎,34.954288,135.814233,京都市伏見区石田森南町1丁目2-6,戸建て,定番 3人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0297,青木 直人,34.958525,135.808587,京都市伏見区石田大受町2丁目29-3,戸建て,Lovyu 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0298,村上 直樹,34.989796,135.818437,京都市山科区竹鼻地蔵寺南町4丁目9-18 ファミール306号,集合住宅,Cut Meal 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0299,加藤 恵美,34.952895,135.80863,京都市伏見区醍醐多羅尾町3丁目29-1,戸建て,プチママ 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0300,中村 友美,34.957385,135.808197,京都市伏見区醍醐川久保町1丁目2-11,戸建て,定番 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0301,青木 久美子,34.962724,135.813538,京都市伏見区石田森南町4丁目20-3,戸建て,食番 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0302,石井 俊介,34.969276,135.815628,京都市山科区椥辻草海道町4丁目27-9 ベルメゾン606号,集合住宅,定番 3人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0303,遠藤 俊介,34.978912,135.809197,京都市山科区勧修寺平田町3丁目7-6,戸建て,定番 3人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0304,斉藤 陽子,34.94569,135.810339,京都市伏見区石田大受町4丁目21-15,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0305,山口 真由美,34.936359,135.799839,宇治市木幡南端4丁目16-13,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0306,山口 達也,34.95585,135.758083,京都市伏見区深草キトロ町4丁目24-12,戸建て,Lovyu 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0307,福田 香織,34.975265,135.812251,京都市山科区大宅神納町4丁目5-7,戸建て,ベジミール,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0308,岡田 次郎,34.95041,135.810677,京都市伏見区小栗栖中山田町4丁目30-3,戸建て,食番 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0309,近藤 俊介,34.964256,135.767424,京都市伏見区深草瓦町3丁目12-8,戸建て,Lovyu 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0310,佐藤 直人,34.957761,135.810842,京都市伏見区小栗栖中山田町3丁目12-18,戸建て,Cut Meal 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0311,鈴木 優子,34.976369,135.811179,京都市山科区椥辻中在家町3丁目9-18,戸建て,Lovyu 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0312,藤井 友美,34.956472,135.809314,京都市伏見区小栗栖中山田町4丁目23-1,戸建て,ベジミール,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0313,村上 花子,34.990484,135.809826,京都市山科区音羽中堀町2丁目18-5,戸建て,食番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0314,前田 翔太,34.930223,135.803217,宇治市木幡御蔵山平野部3丁目24-4,戸建て,ベジミール,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0315,小林 直人,34.968921,135.806297,京都市山科区勧修寺平田町1丁目30-11,戸建て,定番 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0316,坂本 美咲,34.968091,135.816904,京都市山科区椥辻中在家町3丁目19-10,戸建て,Lovyu 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0317,伊藤 和也,34.974754,135.818518,京都市山科区勧修寺東栗栖野町2丁目16-2 パセオ304号,集合住宅,定番 3人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0318,太田 恵美,34.948269,135.763358,京都市伏見区墨染町1丁目28-6,戸建て,プチママ 3人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0319,金子 直樹,34.95585,135.765356,京都市伏見区深草キトロ町4丁目14-18,戸建て,Lovyu 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0320,村上 真由美,34.974322,135.808093,京都市山科区大宅神納町4丁目10-18,戸建て,キットde楽! 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0321,山田 恵美,34.973832,135.815798,京都市山科区東野百拍子町3丁目27-11,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0322,岡田 浩,34.928994,135.801343,宇治市木幡南端4丁目8-16,戸建て,Lovyu 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0323,池田 拓也,34.982906,135.813834,京都市山科区大宅御所田町4丁目24-12,戸建て,プチママ 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0324,村上 明美,34.987902,135.813883,京都市山科区音羽平林町1丁目30-17,戸建て,プチママ 3人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0325,渡辺 修,34.971301,135.81334,京都市山科区西野今屋敷町1丁目13-17,戸建て,食番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0326,吉田 友美,34.939957,135.80361,宇治市六地蔵奈良町4丁目20-4,戸建て,プチママ 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0327,木村 健一,34.98922,135.811506,京都市山科区音羽中堀町2丁目25-16,戸建て,キットde楽! 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0328,中川 花子,34.970784,135.817777,京都市山科区椥辻平田町2丁目22-18,戸建て,キットde楽! 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0329,福田 裕子,34.944498,135.813546,京都市伏見区石田大受町3丁目14-11,戸建て,食番 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0330,石川 裕子,34.991252,135.810977,京都市山科区音羽役所前2丁目30-11,戸建て,キットde楽! 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0331,渡辺 明美,34.935571,135.798748,宇治市木幡東中1丁目1-14,戸建て,プチママ 3人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0332,遠藤 友美,34.974082,135.815415,京都市山科区勧修寺東栗栖野町4丁目12-14,戸建て,プチママ 2人用,玄関前置き配,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0333,三浦 幸子,34.958178,135.813255,京都市伏見区小栗栖中山田町3丁目10-18,戸建て,Cut Meal 2人用,インターホン下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0334,岡田 優子,34.963018,135.764578,京都市伏見区墨染町1丁目7-8,戸建て,Lovyu 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0335,三浦 次郎,34.991901,135.818435,京都市山科区竹鼻堂ノ前町2丁目24-12,戸建て,プチママ 3人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0336,山本 拓也,34.956869,135.809153,京都市伏見区石田大受町3丁目5-4 エクセレンス108号,集合住宅,ベジミール,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0337,小川 優子,34.960971,135.761586,京都市伏見区竹田真幡木町2丁目17-14 グランドメゾン204号,集合住宅,Lovyu 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0338,福田 麻衣,34.988441,135.817837,京都市山科区音羽前出町4丁目6-1,戸建て,食番 2人用,勝手口横,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0339,佐藤 剛,34.934479,135.805847,宇治市六地蔵町並3丁目16-8 パセオ407号,集合住宅,食番 2人用,玄関前置き配,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0340,佐々木 誠,34.98607,135.81621,京都市山科区音羽平林町1丁目21-14,戸建て,食番 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0341,山口 剛,34.949808,135.813937,京都市伏見区小栗栖森本町1丁目28-8 パセオ202号,集合住宅,ベジミール,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0342,加藤 香織,34.988186,135.818106,京都市山科区竹鼻竹ノ街道町2丁目29-8,戸建て,キットde楽! 2人用,玄関前（鍵付きBOX）,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0343,吉田 真由美,34.934392,135.808731,宇治市六地蔵奈良町3丁目6-4 ファミール206号,集合住宅,プチママ 2人用,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0344,高橋 翔太,34.955371,135.810809,京都市伏見区石田森南町3丁目1-6 ファミール506号,集合住宅,ベジミール,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0345,後藤 友美,34.944316,135.808975,京都市伏見区醍醐川久保町2丁目15-7,戸建て,定番 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0346,岡田 誠,34.949473,135.810058,京都市伏見区小栗栖中山田町2丁目28-10,戸建て,Lovyu 2人用,宅配ボックス,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0347,山口 優子,34.986976,135.809613,京都市山科区竹鼻竹ノ街道町1丁目27-3,戸建て,Lovyu 2人用,カーポート下,sample_house.jpg,時間指定なし,depot-kyoto-higashi,True
+C0348,山口 和也,34.936334,135.807402,宇治市六地蔵町並3丁目5-1 パセオ204号,集合住宅,ベジミール,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0349,村上 美咲,34.932034,135.801409,宇治市木幡南端2丁目26-3 ベルメゾン101号,集合住宅,食番 2人用,管理人室預け,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True
+C0350,藤井 浩,34.971964,135.806746,京都市山科区椥辻中在家町4丁目30-4 ファミール307号,集合住宅,ベジミール,マンション集合宅配BOX,sample_apartment.jpg,時間指定なし,depot-kyoto-higashi,True

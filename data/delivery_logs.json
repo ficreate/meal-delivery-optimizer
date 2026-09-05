@@ -1,0 +1,20 @@
+{
+  "2026-09-01_depot-kyoto-higashi_コース-01": {
+    "date": "2026-09-01",
+    "depot_id": "depot-kyoto-higashi",
+    "course_id": "コース-01",
+    "user_id": "admin01",
+    "departure_time": "16:41:24",
+    "return_time": null,
+    "deliveries": {}
+  },
+  "2026-09-03_depot-kyoto-higashi_コース-02": {
+    "date": "2026-09-03",
+    "depot_id": "depot-kyoto-higashi",
+    "course_id": "コース-02",
+    "user_id": "driver01",
+    "departure_time": "09:17:10",
+    "return_time": null,
+    "deliveries": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "depot-001": {
+    "コース-01": "driver01",
+    "コース-02": "driver02",
+    "コース-03": "driver03",
+    "コース-04": "driver04",
+    "コース-05": "driver05"
+  },
+  "depot-002": {
+    "コース-01": "driver06"
+  },
+  "depot-kyoto-higashi": {
+    "コース-01": "driver02",
+    "コース-02": "driver01",
+    "コース-03": "driver03",
+    "コース-04": "driver04",
+    "コース-05": "driver05",
+    "コース-06": "driver06"
+  }
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "depot-kyoto-higashi",
+    "name": "京都東営業所",
+    "address": "京都府京都市山科区西野山射庭ノ上町",
+    "lat": 34.975,
+    "lng": 135.805,
+    "default_departure_time": "09:30",
+    "default_return_time": "16:30",
+    "default_break_minutes": 60,
+    "house_service_minutes": 4,
+    "building_service_minutes": 8
+  },
+  {
+    "id": "depot-kyoto-minami",
+    "name": "京都南営業所",
+    "address": "京都府京都市南区上鳥羽大柳町",
+    "lat": 34.96,
+    "lng": 135.745,
+    "default_departure_time": "09:30",
+    "default_return_time": "16:00",
+    "default_break_minutes": 60,
+    "house_service_minutes": 4,
+    "building_service_minutes": 8,
+    "target_courses": 6
+  },
+  {
+    "id": "depot-shiga-kusatsu",
+    "name": "滋賀草津営業所",
+    "address": "滋賀県草津市野路",
+    "lat": 35.002,
+    "lng": 135.955,
+    "default_departure_time": "09:30",
+    "default_return_time": "16:00",
+    "default_break_minutes": 60,
+    "house_service_minutes": 4,
+    "building_service_minutes": 8,
+    "target_courses": 8
+  }
+]
